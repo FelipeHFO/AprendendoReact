@@ -20,7 +20,7 @@ label{
     margin: 5px;
     font-size: 1rem;
 }
-
+/*
 input{
     width: 70%;
     border: none;
@@ -29,6 +29,7 @@ input{
     margin: 5px;
     padding: 10px;
 }
+*/
 
 textarea{
     width: 400px;
